@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 5EBC-5DB4
+
+ Directory of E:\my project1
+
+08/01/2019  12:44 PM    <DIR>          .
+08/01/2019  12:44 PM    <DIR>          ..
+08/01/2019  12:44 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  124,443,168,768 bytes free
